@@ -1,6 +1,6 @@
 ====================================================================
 		    
- DMclust_GUI                             2016/04/18
+ DMclust_GUI                             2017/03/01
  ver1.0.0                           ICI/LIFT, China
 		    	 	       
 ====================================================================
@@ -47,6 +47,7 @@ Input file is *.txt and input sequences require FASTA format, e.g.
  AAATCTCGACATCCTCTGACCCCTCTAGAGATAGAGTTTTCCCCTTCGGGGGACAGAGTGAC
 
 Execute Step
+Download all files and unzip the private.zip
 ------------
 Step 1: Open Matlab.
 Step 2: Change 'Current Folder' to the 'DMclust_GUI' folder.
